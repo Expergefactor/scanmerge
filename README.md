@@ -21,7 +21,7 @@ Output file will be generated with "_merged" as a suffix, i.e. myscan_merged.pdf
 ### Requirements 
 PyPDF2
 
-    apt install python3-PyPDF2
+    pip install PyPDF2
 
 ### Acknowledgements
 
